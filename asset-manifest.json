@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chatj/static/css/main.5d41ca5f.chunk.css",
+    "main.js": "/chatj/static/js/main.9e003b53.chunk.js",
+    "main.js.map": "/chatj/static/js/main.9e003b53.chunk.js.map",
+    "runtime~main.js": "/chatj/static/js/runtime~main.7a150762.js",
+    "runtime~main.js.map": "/chatj/static/js/runtime~main.7a150762.js.map",
+    "static/js/2.bc322344.chunk.js": "/chatj/static/js/2.bc322344.chunk.js",
+    "static/js/2.bc322344.chunk.js.map": "/chatj/static/js/2.bc322344.chunk.js.map",
+    "index.html": "/chatj/index.html",
+    "precache-manifest.0d5b01d1d70bd142e6fcb3420aa85dd9.js": "/chatj/precache-manifest.0d5b01d1d70bd142e6fcb3420aa85dd9.js",
+    "service-worker.js": "/chatj/service-worker.js",
+    "static/css/main.5d41ca5f.chunk.css.map": "/chatj/static/css/main.5d41ca5f.chunk.css.map"
+  }
+}
